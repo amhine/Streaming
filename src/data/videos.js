@@ -1,0 +1,72 @@
+export const videos = [
+    {
+        id: 1,
+        title: "Inception",
+        description: "Dom Cobb specializes in the dangerous art of extraction: stealing secrets from deep within the subconscious during the dream state. His skill has made him a high-stakes player in industrial espionage but also a fugitive.",
+        thumbnailUrl: "https://images.unsplash.com/photo-1626814026160-2237a95fc5a0?auto=format&fit=crop&q=80&w=800",
+        trailerUrl: "https://www.youtube.com/embed/YoHD9XEInc0",
+        duration: "2h 28min",
+        releaseYear: 2010,
+        type: "FILM",
+        category: "Science-Fiction",
+        rating: 8.8,
+        director: "Christopher Nolan",
+        cast: ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"]
+    },
+    {
+        id: 2,
+        title: "Interstellar",
+        description: "In the near future, Earth is becoming uninhabitable. Former NASA pilot Cooper and a team of researchers travel through a wormhole in search of a new planet for humankind.",
+        thumbnailUrl: "https://images.unsplash.com/photo-1614728263952-84ea256f96 Rot?auto=format&fit=crop&q=80&w=800",
+        trailerUrl: "https://www.youtube.com/embed/zSWdZVtXT7E",
+        duration: "2h 49min",
+        releaseYear: 2014,
+        type: "FILM",
+        category: "Science-Fiction",
+        rating: 8.7,
+        director: "Christopher Nolan",
+        cast: ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"]
+    },
+    {
+        id: 3,
+        title: "The Dark Knight",
+        description: "When the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        thumbnailUrl: "https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&q=80&w=800",
+        trailerUrl: "https://www.youtube.com/embed/EXeTwQWrcwY",
+        duration: "2h 32min",
+        releaseYear: 2008,
+        type: "FILM",
+        category: "Action",
+        rating: 9.0,
+        director: "Christopher Nolan",
+        cast: ["Christian Bale", "Heath Ledger", "Aaron Eckhart"]
+    },
+    {
+        id: 4,
+        title: "Breaking Bad",
+        description: "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student in order to secure his family's future.",
+        thumbnailUrl: "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?auto=format&fit=crop&q=80&w=800",
+        trailerUrl: "https://www.youtube.com/embed/HhesaQXLuRY",
+        duration: "5 Seasons",
+        releaseYear: 2008,
+        type: "SERIE",
+        category: "Drame",
+        rating: 9.5,
+        director: "Vince Gilligan",
+        cast: ["Bryan Cranston", "Aaron Paul", "Anna Gunn"]
+    },
+    {
+        id: 5,
+        title: "Our Planet",
+        description: "Experience our planet's natural beauty and examine how climate change impacts all living creatures in this ambitious documentary of spectacular scope.",
+        thumbnailUrl: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=800",
+        trailerUrl: "https://www.youtube.com/embed/GfO-37LAJjm",
+        duration: "8 Episodes",
+        releaseYear: 2019,
+        type: "DOCUMENTAIRE",
+        category: "Documentaire",
+        rating: 9.3,
+        director: "Alastair Fothergill",
+        cast: ["David Attenborough"]
+    }
+];
