@@ -49,11 +49,3 @@ src/
 ├── pages/        # Pages de l'application (Home, Login, Profile...)
 └── assets/       # Styles et images
 ```
-
-## 👤 Auteur
-
-- **Nihad Amhine** - Développement Full Stack
-
----
-*Projet réalisé dans le cadre d'un test technique React.js.*
-# Streaming
